@@ -1,4 +1,4 @@
-#### A list of sites that should be excluded from proxying for a work speed reasons.
+### A list of sites that should be excluded from proxying in Russia for a work speed reasons.
 ```
 
 vk.com,
