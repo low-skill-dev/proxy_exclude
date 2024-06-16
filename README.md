@@ -28,8 +28,6 @@ sberbank.ru,
 sberbank.com,
 .sberbank.com,
 
-google.com,
-.google.com,
 youtube.com,
 .youtube.com,
 ytimg.com,
