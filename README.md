@@ -79,6 +79,9 @@ jsdelivr.net,
 alibaba.com,
 .alibaba.com,
 
+gaijin.net,
+.gaijin.net,
+
 etos-pro.ru,
 .etos-pro.ru,
 
