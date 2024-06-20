@@ -79,8 +79,15 @@ jsdelivr.net,
 alibaba.com,
 .alibaba.com,
 
+aeza.net,
+.aeza.net,
+carrotquest.app,
+.carrotquest.app,
+
+
 gaijin.net,
 .gaijin.net,
+
 
 etos-pro.ru,
 .etos-pro.ru,
