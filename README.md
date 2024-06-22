@@ -1,6 +1,9 @@
 ### A list of sites that should be excluded from proxying in Russia for a work speed reasons.
 ```
 
+192.168.0.0,
+192.168.0.1,
+
 vk.com,
 .vk.com,
 mycdn.me,
