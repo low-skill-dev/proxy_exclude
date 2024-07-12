@@ -39,8 +39,6 @@ ggpht.com,
 .ggpht.com,
 googleapis.com,
 .googleapis.com,
-googlevideo.com,
-.googlevideo.com,
 
 gov.ru,
 .gov.ru,
@@ -94,5 +92,14 @@ gaijin.net,
 
 etos-pro.ru,
 .etos-pro.ru,
+
+```
+
+### Temporarily excluded
+
+```
+
+googlevideo.com,
+.googlevideo.com,
 
 ```
