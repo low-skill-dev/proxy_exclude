@@ -93,6 +93,10 @@ gaijin.net,
 etos-pro.ru,
 .etos-pro.ru,
 
+
+telegram.org,
+.telegram.org,
+
 ```
 
 ### Temporarily excluded
