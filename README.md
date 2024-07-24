@@ -91,9 +91,6 @@ gaijin.net,
 etos-pro.ru,
 .etos-pro.ru,
 
-telegram.org,
-.telegram.org,
-
 tinkoff.ru,
 .tinkoff.ru,
 tbank.ru,
@@ -111,5 +108,8 @@ cdn-tbank.ru,
 
 googlevideo.com,
 .googlevideo.com,
+
+telegram.org,
+.telegram.org,
 
 ```
