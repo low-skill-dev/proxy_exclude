@@ -98,6 +98,10 @@ tinkoff.ru,
 .tinkoff.ru,
 tbank.ru,
 .tbank.ru,
+cdn-tinkoff.ru,
+.cdn-tinkoff.ru,
+cdn-tbank.ru,
+.cdn-tbank.ru,
 
 ```
 
