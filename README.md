@@ -103,6 +103,9 @@ cdn-tbank.ru,
 invitro.ru,
 .invitro.ru,
 
+pochta.ru,
+.pochta.ru,
+
 ```
 
 ### Temporarily excluded
