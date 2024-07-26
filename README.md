@@ -100,6 +100,9 @@ cdn-tinkoff.ru,
 cdn-tbank.ru,
 .cdn-tbank.ru,
 
+invitro.ru,
+.invitro.ru,
+
 ```
 
 ### Temporarily excluded
