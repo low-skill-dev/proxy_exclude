@@ -80,8 +80,9 @@ jsdelivr.net,
 alibaba.com,
 .alibaba.com,
 
-aeza.net,
-.aeza.net,
+telegram.org,
+.telegram.org,
+
 carrotquest.app,
 .carrotquest.app,
 
@@ -115,7 +116,7 @@ pochta.ru,
 googlevideo.com,
 .googlevideo.com,
 
-telegram.org,
-.telegram.org,
+aeza.net,
+.aeza.net,
 
 ```
