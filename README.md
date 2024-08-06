@@ -83,6 +83,9 @@ alibaba.com,
 telegram.org,
 .telegram.org,
 
+aeza.net,
+.aeza.net,
+
 carrotquest.app,
 .carrotquest.app,
 
@@ -115,8 +118,5 @@ pochta.ru,
 
 googlevideo.com,
 .googlevideo.com,
-
-aeza.net,
-.aeza.net,
 
 ```
