@@ -31,8 +31,6 @@ sberbank.ru,
 sberbank.com,
 .sberbank.com,
 
-youtube.com,
-.youtube.com,
 ytimg.com,
 .ytimg.com,
 ggpht.com,
@@ -116,6 +114,8 @@ pochta.ru,
 
 ```
 
+youtube.com,
+.youtube.com,
 googlevideo.com,
 .googlevideo.com,
 
