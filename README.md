@@ -1,4 +1,4 @@
-### A list of sites that should be excluded from proxying in Russia for a work speed reasons.
+a### A list of sites that should be excluded from proxying in Russia for a work speed reasons.
 ```
 
 192.168.0.0,
@@ -107,6 +107,11 @@ invitro.ru,
 
 pochta.ru,
 .pochta.ru,
+
+mega.nz,
+.mega.nz,
+mega.co.nz,
+.mega.co.nz,
 
 ```
 
