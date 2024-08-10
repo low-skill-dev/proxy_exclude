@@ -112,6 +112,8 @@ mega.nz,
 mega.co.nz,
 .mega.co.nz,
 
+kaspersky.ru,
+.kaspersky.ru,
 kaspersky-labs.com,
 .kaspersky-labs.com,
 ```
