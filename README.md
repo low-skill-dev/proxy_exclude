@@ -1,6 +1,5 @@
-a### A list of sites that should be excluded from proxying in Russia for a work speed reasons.
+A list of sites that should be excluded from proxying in Russia for a work speed reasons.
 ```
-
 192.168.0.0,
 192.168.0.1,
 
@@ -113,15 +112,15 @@ mega.nz,
 mega.co.nz,
 .mega.co.nz,
 
+kaspersky-labs.com,
+.kaspersky-labs.com,
 ```
 
 ### Temporarily excluded
 
 ```
-
 youtube.com,
 .youtube.com,
 googlevideo.com,
 .googlevideo.com,
-
 ```
