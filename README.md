@@ -116,6 +116,9 @@ kaspersky.ru,
 .kaspersky.ru,
 kaspersky-labs.com,
 .kaspersky-labs.com,
+
+dns-shop.ru,
+.dns-shop.ru,
 ```
 
 ### Temporarily excluded
