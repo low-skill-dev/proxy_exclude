@@ -122,6 +122,9 @@ kaspersky-labs.com,
 
 dns-shop.ru,
 .dns-shop.ru,
+
+funpay.com,
+.funpay.com,
 ```
 
 ### Temporarily excluded
