@@ -30,10 +30,6 @@ sberbank.ru,
 sberbank.com,
 .sberbank.com,
 
-ytimg.com,
-.ytimg.com,
-ggpht.com,
-.ggpht.com,
 googleapis.com,
 .googleapis.com,
 
@@ -130,6 +126,10 @@ funpay.com,
 ### Temporarily excluded
 
 ```
+ytimg.com,
+.ytimg.com,
+ggpht.com,
+.ggpht.com,
 youtube.com,
 .youtube.com,
 googlevideo.com,
