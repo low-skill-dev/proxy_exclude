@@ -125,6 +125,12 @@ dns-shop.ru,
 
 funpay.com,
 .funpay.com,
+
+gog.com,
+.gog.com,
+gog-statics.com,
+.gog-statics.com,
+
 ```
 
 ### Temporarily excluded
