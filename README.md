@@ -131,6 +131,9 @@ gog.com,
 gog-statics.com,
 .gog-statics.com,
 
+playground.ru,
+.playground.ru,
+
 ```
 
 ### Temporarily excluded
